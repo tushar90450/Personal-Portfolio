@@ -23,7 +23,7 @@ const Project = () => {
         "A visually engaging developer portfolio that showcases my skills, projects, and experience as an interactive multiverse. Built using animations, modals, and responsive layouts for a modern dev presence.",
       image: image,
       tags: ["React.js", "TailwindCSS", "Framer Motion", "Responsive UI"],
-      webapp: "https://tiffintales-nine.vercel.app/",
+      webapp: "https://personal-portfolio-sable-seven-39.vercel.app/",
     },
     {
   id: 3,
