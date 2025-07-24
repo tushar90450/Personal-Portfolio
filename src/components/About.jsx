@@ -18,9 +18,9 @@ const About = () => {
           </p>
 
           <p className="text-gray-300 text-lg md:text-xl leading-relaxed max-w-xl">
-            Enthusiastic Computer Science undergraduate skilled in full-stack development
-            and DSA, with hands-on project experience in AI-driven solutions and competitive programming achievements.
-          </p>
+  Passionate Computer Science undergraduate with a strong foundation in Data Structures and Algorithms using Java. Experienced in full-stack development and AI-driven solutions, with a proven track record in competitive programming and real-world project implementation.
+</p>
+
 
           <a
   href="/Resumets.pdf"
