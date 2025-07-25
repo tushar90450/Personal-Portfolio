@@ -23,7 +23,7 @@ const About = () => {
 
 
           <a
-  href="/Resumets.pdf"
+  href="/Tushar.pdf"
   download
   className="inline-block py-4 px-10 rounded-full mt-6 text-xl font-bold transition duration-300 transform hover:scale-105 text-white"
   style={{
