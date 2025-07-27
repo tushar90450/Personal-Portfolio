@@ -14,7 +14,7 @@ const Project = () => {
         "A full-stack MERN platform connecting home-chefs with students and professionals. Enables users to subscribe and order healthy homemade meals with live order tracking. Empowers local women entrepreneurs through a digital storefront.",
       image: food,
       tags: ["MERN", "React", "Node.js", "MongoDB", "Express", "Live Tracking"],
-      webapp: "https://tiffintales-nine.vercel.app/",
+      webapp: "https://www.tiffintalesindia.me/",
     },
     {
       id: 2,
