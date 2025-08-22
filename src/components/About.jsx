@@ -23,7 +23,7 @@ const About = () => {
 
 
           <a
-  href="/TUSHARRESUME1.pdf"
+  href="/RESUME.pdf"
   download
   className="inline-block py-4 px-10 rounded-full mt-6 text-xl font-bold transition duration-300 transform hover:scale-105 text-white"
   style={{
@@ -42,8 +42,10 @@ const About = () => {
           <img
             src={profileImage}
             alt="Developer"
-            className="w-[280px] h-[280px] sm:w-[360px] sm:h-[360px] md:w-[440px] md:h-[440px] object-contain drop-shadow-2xl animate-fade-in"
+            className="w-[300px] h-[420px] sm:w-[340px] sm:h-[500px] object-cover rounded-[9999px] border-4 border-[#8245ec] drop-shadow-2xl animate-fade-in 
+            transition duration-500 ease-in-out transform hover:scale-110 hover:shadow-[0_0_30px_#8245ec]"
           />
+
         </div>
       </div>
     </section>
